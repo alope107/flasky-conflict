@@ -6,4 +6,5 @@ class Bike(db.Model):
     price = db.Column(db.Integer)
     size = db.Column(db.Integer)
     type = db.Column(db.String)
+    handlebars = db.Column(db.String)
 

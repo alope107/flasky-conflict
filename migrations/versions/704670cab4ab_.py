@@ -1,8 +1,8 @@
-"""Added bike model
+"""empty message
 
-Revision ID: c255cdf1d8c3
+Revision ID: 704670cab4ab
 Revises: 
-Create Date: 2022-10-27 11:37:32.943073
+Create Date: 2022-10-31 12:37:49.788198
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = 'c255cdf1d8c3'
+revision = '704670cab4ab'
 down_revision = None
 branch_labels = None
 depends_on = None
