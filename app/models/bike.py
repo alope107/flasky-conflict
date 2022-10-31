@@ -8,4 +8,5 @@ class Bike(db.Model):
     type = db.Column(db.String)
     kendallisgreat = db.Column(db.String)
     handlebars = db.Column(db.String)
+    new_stuff = db.Column(db.String)
 
